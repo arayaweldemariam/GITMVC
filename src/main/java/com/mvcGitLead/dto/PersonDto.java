@@ -5,6 +5,7 @@ public class PersonDto {
 	private String name;
 	private String lastName;
 	private int userId;
+	private String fathername;
 	
 	
 	public PersonDto(String name, String lastName, int userId) {
